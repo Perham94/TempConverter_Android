@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TempConverter</string>
+
+    <string name="Read_From_File">LÄS MÄTVÄRDEN FRÅN FIL</string>
+    <string name="Read_From_Internet">LÄS MÄTVÄRDEN FRÅN Internet</string>
+    <string name="Show_Values">VISA MÄTVÄRDEN</string>
+    <string name="Show_Values_InCelsius">VISA MÄTVÄRDEN I CELSIUS</string>
+    <string name="Show_Values_InFarenheiht">VISA MÄTVÄRDEN I FAHRENHEIT</string>
+    <string name="Calculate_Mean_InCelsius">BERÄKNA MEDELVÄRDE OCH VISA I CELSIUS</string>
+    <string name="Calculate_Mean_InFarenheiht">BERÄKNA MEDELVÄRDE OCH VISA I FAHRENHEIT</string>
+    <string name="Calculate_Median_InFarenheiht">BERÄKNA MEDIANVÄRDE OCH VISA I FAHRENHEIT</string>
+    <string name="Calculate_Median_InCelsius">BERÄKNA MEDIANVÄRDE OCH VISA I CELSIUS</string>
+</resources>
